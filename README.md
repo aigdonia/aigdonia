@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+
+Since you reached my profile page, I believe you are looking for more details about myself:
+
+
 
 <!--
 **aigdonia/aigdonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

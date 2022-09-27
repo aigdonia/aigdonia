@@ -1,7 +1,6 @@
-### Hi!
 
-Since you reached my profile page, I believe you are looking for more details about myself:
-
+[![@aigdonia's Holopin board](https://holopin.io/api/user/board?user=aigdonia)](https://holopin.io/@aigdonia)
+# Contributing this year in HacktoberFest 2022
 
 
 <!--
